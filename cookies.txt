@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	US:CA:Sacramento:38.68:-121.35:v4
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	US:CA:Sacramento:38.68:-121.35:v4
+www.gregoryferdinandsen.com	TRUE	/	FALSE	1999999999	TS0194eee0	01d06827914888f81fdb3afd918f6398e92e6de808c9afa08d13f288dd17e3b0396a9553f6a1162b592fe92c4f1224bdf78c072f4b
+.real.com	TRUE	/	FALSE	1999999999	deviceType	others
+.real.com	TRUE	/	FALSE	1999999999	accessingCountry	us
+de.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	24-Nov-2017
+www.pixar.com	TRUE	/	FALSE	1999999999	crumb	BY7HuvKknwGrMTA5MDMzZTFhZGRjMTRkM2JkYzU1MTRjNDBiNDc3
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	24-Nov-2017
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	l7ablmeqvmcuqsed05mu5uk7gk90k35g
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	forceHTTPS	true
+.usb3.com	TRUE	/	FALSE	1999999999	__cfduid	d7775976660ec24e369d2483fbb5891d31511560764
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	24-Nov-2017
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	24-Nov-2017
+en.wikipedia.org	TRUE	/	FALSE	1999999999	enwikiSession	sjpb3ns5pmjme4bm72mg1vabc2kq0ppb
+.wikipedia.org	TRUE	/	FALSE	1999999999	forceHTTPS	deleted
+en.wikipedia.org	TRUE	/	FALSE	1999999999	forceHTTPS	true
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	24-Nov-2017
+
